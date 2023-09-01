@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821348745429",
+    "firebase_url": "https://chatapp1-6ab56-default-rtdb.firebaseio.com",
+    "project_id": "chatapp1-6ab56",
+    "storage_bucket": "chatapp1-6ab56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821348745429:android:b727397e51b55639e2225c",
+        "android_client_info": {
+          "package_name": "uz.turgunboyevjurabek.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821348745429-dmasbett43hu2m26jftl0dgl686eifsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQyWqGh9pLt3XC_Cs80C3-TMlK2GWj5FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821348745429-dmasbett43hu2m26jftl0dgl686eifsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
