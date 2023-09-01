@@ -3,6 +3,7 @@ package uz.turgunboyevjurabek.chatapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.findNavController
+import androidx.navigation.fragment.NavHostFragment.Companion.findNavController
 import uz.turgunboyevjurabek.chatapp.databinding.ActivityMainBinding
 import uz.turgunboyevjurabek.chatapp.madels.binding.AppBinding
 
